@@ -1,20 +1,16 @@
-<div align="center">
-<h3>Visitors</h3>
-</div>
+<h3 align="center">Visitors</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CoderRony955/count.svg?"  />
 </div>
 
+<h2 align="center">About me</h2>
 <h2 align="center">Hello! I'm Raunak and I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development, web development, and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h2>
 
 ###
 
- <div align="center">
- <h2>Stats</h2>
- </div>
- 
 <div align="center">
+   <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=CoderRony955&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderRony955&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -35,7 +31,7 @@
 
 
 <div align="center">
-  <h2>Languages and Frameworks🔥🔥</h2>
+  <h2>Languages, Frameworks and libraries🔥🔥</h2>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo" />
