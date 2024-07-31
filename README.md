@@ -35,6 +35,8 @@
 
 
 <div align="center">
+  <h2>Languages and Frameworks🔥🔥</h2>
+  
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo" />
   </a>
@@ -103,8 +105,9 @@
 ###
 
 <br clear="both">
-
 <div align="center">
+  <h2>Social🧑🏻‍💻</h2>
+  
   <a href="https://www.instagram.com/__raunakk__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
