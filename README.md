@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CoderRony955/count.svg?"  />
+</div>
 <h2 align="center">Hello! I'm Raunak and I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development, web development, and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h2>
 
 ###
