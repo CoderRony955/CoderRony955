@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">About me</h2>
-<h2 align="center">Hello! I'm Raunak and I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development, web development, and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h2>
+<h2 align="center">Hello! I'm Raunak and I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <h2>Languages, Frameworks and libraries🔥🔥</h2>
+  <h2>Languages and technologies🔥</h2>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo" />
