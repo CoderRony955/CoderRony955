@@ -28,19 +28,12 @@
 
 <br clear="both">
 
-
-
 <div align="center">
   <h2>Languages and technologies🔥</h2>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo" />
   </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" alt="javascript logo" />
-  </a>
- 
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="html5 logo" />
@@ -62,6 +55,26 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56" alt="pandas logo" />
   </a>
   <img width="12" />
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="56" alt="matplotlib logo" />
+  </a>
+  <img width="12" />
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="56" alt="seaborn logo" />
+  </a>
+  <img width="12" />
+  <a href="https://discordpy.readthedocs.io" target="_blank">
+    <img src="https://i.namu.wiki/i/q5k8sRLjR09LE9BePc1fj7f2wMwZW93dbRxfSIAHoG0E0nt_Rw1BV3-YXlIEQi5MMsrpUcwdrabdRUs_DHXTyISEI8HVlVbf50FNAhg7_vSVbDr-IHKdreeBjeoQfuWEFExVSB2vrIB5WSr_k4_PKvRgXoyoBYau28V1SWgUU8o.webp" height="56" alt="discord logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="56" alt="mysql logo" />
+  </a>
+  <img width="12" />
+  <a href="https://ollama.com" target="_blank">
+    <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height="56" alt="ollama placeholder logo" />
+  </a>
+  <img width="12" />
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" alt="bootstrap logo" />
   </a>
@@ -80,10 +93,6 @@
   <img width="12" />
   <a href="https://www.canva.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="56" alt="canva logo" />
-  </a>
-  <img width="12" />
-  <a href="https://discord.js.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="56" alt="discordjs logo" />
   </a>
   <img width="12" />
   <a href="https://code.visualstudio.com" target="_blank">
