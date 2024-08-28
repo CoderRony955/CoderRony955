@@ -79,6 +79,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" alt="bootstrap logo" />
   </a>
   <img width="12" />
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="56" alt="flask logo" style="border-radius: 50%;" />
+</a>
+  <img width="12" />
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="56" alt="tailwindcss logo" />
   </a>
@@ -102,6 +106,15 @@
   <a href="https://visualstudio.microsoft.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="56" alt="visualstudio logo" />
   </a>
+<img width="12" />
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" alt="github logo" style="border-radius: 50%;" />
+</a>
+<img width="12" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="git logo" style="border-radius: 50%;" />
+</a>
+
 </div>
 
 ###
