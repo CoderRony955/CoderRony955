@@ -135,6 +135,10 @@
   <a href="https://medium.com/@1973reenaraunak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
   </a>
+  <a href="https://x.com/__Raunakk__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
+  </a>
+
 </div>
 
 ###
