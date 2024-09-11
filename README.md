@@ -64,7 +64,7 @@
   </a>
   <img width="12" />
   <a href="https://discordpy.readthedocs.io" target="_blank">
-    <img src="https://i.namu.wiki/i/q5k8sRLjR09LE9BePc1fj7f2wMwZW93dbRxfSIAHoG0E0nt_Rw1BV3-YXlIEQi5MMsrpUcwdrabdRUs_DHXTyISEI8HVlVbf50FNAhg7_vSVbDr-IHKdreeBjeoQfuWEFExVSB2vrIB5WSr_k4_PKvRgXoyoBYau28V1SWgUU8o.webp" height="56" alt="discord logo" />
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/502/804/datas/gallery.jpg" height="56" alt="discord logo" />
   </a>
   <img width="12" />
   <a href="https://www.mysql.com" target="_blank">
