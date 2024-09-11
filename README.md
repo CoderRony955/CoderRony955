@@ -64,7 +64,7 @@
   </a>
   <img width="12" />
   <a href="https://discordpy.readthedocs.io" target="_blank">
-    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/502/804/datas/gallery.jpg" height="56" alt="discord logo" />
+    <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/502/804/datas/gallery.jpg" height="56"  alt="discord logo" style="border-radius: 50%";/>
   </a>
   <img width="12" />
   <a href="https://www.mysql.com" target="_blank">
@@ -114,6 +114,15 @@
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="git logo" style="border-radius: 50%;" />
 </a>
+<img width="12" />
+<a href="https://wiki.qt.io/Qt_for_Python" target="_blank">
+  <img src="https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png" height="56" alt="pyside" style="border-radius: 50%;" />
+</a>
+<img width="12" />
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" height="56" alt="openvc" style="border-radius: 50%;" />
+</a>
+
 
 </div>
 
