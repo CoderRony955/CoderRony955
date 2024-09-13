@@ -75,6 +75,10 @@
     <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height="56" alt="ollama placeholder logo" />
   </a>
   <img width="12" />
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" height="56" alt="powershell placeholder logo" style="border-radius: 50%;" />
+  </a>
+  <img width="12" />
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" alt="bootstrap logo" />
   </a>
@@ -101,6 +105,10 @@
   <img width="12" />
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="56" alt="vscode logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjYp9i8cGlbtItnf7ku20meAhfGgMG55_T5pXyStrWe4G32k7TILtSFRdzKm_6upNpXMgEM-Xqpsop6_UmXo62qG5Eq9PcAvzVgQlRAyhomFE52HKid__n1SpiNdjV-H7PVNOSpxerHHzOMyAR9f4D1JWkI3WRaz3UePaYsqHOwqJ3XCgPchgOLlhjJww=w200-h200" height="56" alt="pycharm logo" style="border-radius: 50%;" />
   </a>
   <img width="12" />
   <a href="https://visualstudio.microsoft.com" target="_blank">
