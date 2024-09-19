@@ -82,6 +82,10 @@
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" height="56" alt="powershell placeholder logo" style="border-radius: 50%;" />
   </a>
+    <img width="12" />
+  <a href="https://www.json.org/json-en.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/182px-JSON_vector_logo.svg.png" height="56" alt="JSON logo" style="border-radius: 50%;" />
+  </a>
   <img width="12" />
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" alt="bootstrap logo" />
