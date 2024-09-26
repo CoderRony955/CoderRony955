@@ -75,6 +75,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="56" alt="mysql logo" />
   </a>
   <img width="12" />
+  <a href="https://www.javatpoint.com/bash-scripting" target="_blank">
+    <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" height="56" alt="bash script logo" />
+  </a>
+  <img width="12" />
   <a href="https://ollama.com" target="_blank">
     <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height="56" alt="ollama placeholder logo" />
   </a>
