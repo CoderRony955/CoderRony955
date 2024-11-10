@@ -49,6 +49,10 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="56" alt="csharp logo" />
   </a>
+    <img width="12" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" height="56" alt="cpp logo" />
+  </a>
   <img width="12" />
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp&w=256" height="56" alt="java logo" />
