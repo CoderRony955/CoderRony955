@@ -5,15 +5,20 @@
   <img src="https://profile-counter.glitch.me/CoderRony955/count.svg?"  />
 </div>
 
-![Header](./github-header-image.png)
+
 <hr>
-<h2 align="center">About me</h2>
-<h2 align="center">I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h2>
+<h3 align="center">About me</h3>
+<div align="center">
+  <img src="./github-header-image.png" alt="Spotify Recently Played" />
+</div>
+
+<h3 align="center">I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h3>
 
 ###
 
+<hr>
 <div align="center">
-   <h2>Stats</h2>
+   <h3>Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=CoderRony955&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderRony955&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -37,8 +42,9 @@
 
 <br clear="both">
 
+<hr>
 <div align="center">
-  <h2>Languages and technologies🔥</h2>
+  <h3>Languages and technologies🔥</h3>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="python logo" />
@@ -161,9 +167,10 @@
 
 ###
 
+<hr>
 <br clear="both">
 <div align="center">
-  <h2>Social🧑🏻‍💻</h2>
+  <h3>Social🧑🏻‍💻</h3>
   
   <a href="https://www.instagram.com/__raunakk__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
