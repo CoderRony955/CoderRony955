@@ -6,7 +6,7 @@
 </div>
 
 ![Header](./github-header-image.png)
-
+<hr>
 <h2 align="center">About me</h2>
 <h2 align="center">I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development and the exciting world of Artificial Intelligence (AI).I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h2>
 
@@ -18,7 +18,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderRony955&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<hr>
+<h3 align="center">Spotify recently played songs</h3>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hok6nzqi95wntldffdkizlrh0" alt="Spotify Recently Played" />
+</div>
 
+<hr>
 
 
 ###
