@@ -24,12 +24,22 @@
 </div>
 
 <hr>
+
+<h3 align="center">Discord activity</h3>
+<div align="center">
+    <a href="https://discord.com/users/775201117658546206">
+        <img src="https://lanyard.cnrad.dev/api/775201117658546206" alt="Discord Presence" />
+    </a>
+</div>
+
+<hr>
 <h3 align="center">Spotify recently played songs</h3>
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=hok6nzqi95wntldffdkizlrh0" alt="Spotify Recently Played" />
 </div>
 
 <hr>
+
 
 
 ###
