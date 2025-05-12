@@ -117,6 +117,9 @@
   <a href="https://ollama.com" target="_blank">
     <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" height="56" alt="ollama placeholder logo" />
   </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-08/logo-hugging-face-rwd.png" height="56" alt="hugging face logo" />
+  </a>
   <img width="12" />
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" height="56" alt="powershell placeholder logo" style="border-radius: 50%;" />
