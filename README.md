@@ -63,8 +63,16 @@
     <img src="https://freesvg.org/img/js_logo.png" height="56" alt="javascript logo" />
   </a>
   <img width="12" />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" height="56" alt="react logo" />
+  </a>
+  <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="html5 logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.postman.com/downloads/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="56" alt="postman logo" />
   </a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -103,8 +111,8 @@
     <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/502/804/datas/gallery.jpg" height="56"  alt="discord logo" style="border-radius: 50%";/>
   </a>
   <img width="12" />
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="56" alt="mysql logo" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" height="56" alt="fastapi logo" />
   </a>
   <img width="12" />
   <a href="https://www.javatpoint.com/bash-scripting" target="_blank">
@@ -144,6 +152,7 @@
   <a href="https://www.abbrobotstudio.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=bots" height="56" alt="abbrobotstudio logo" />
   </a>
+
   <img width="12" />
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="56" alt="c logo" />
