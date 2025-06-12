@@ -9,10 +9,10 @@
 <hr>
 <h3 align="center">About me</h3>
 <div align="center">
-  <img src="./github-header-image.png" alt="Spotify Recently Played" />
+  <img src="./header-img.png" alt="Spotify Recently Played" />
 </div>
 
-<h3 align="center">I dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development and the exciting world of Artificial Intelligence (AI). I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h3>
+<h3 align="center">Yo! I'm Raunak Sharma and I'm dedicated and passionate student currently pursuing a Bachelor of Computer Applications (BCA). My interests and work revolve around software development and the exciting world of Artificial Intelligence (AI). I am continuously expanding my knowledge and skills in these fields, constantly seeking new challenges and opportunities to grow.</h3>
 
 ###
 
