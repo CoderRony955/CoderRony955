@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CoderRony955/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CoderRony955"/>
 </div>
+
 
 
 <hr>
@@ -221,3 +222,4 @@
 </div>
 
 ###
+
