@@ -1,6 +1,3 @@
-<h3 align="center">Visitors</h3>
-
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CoderRony955"/>
 </div>
