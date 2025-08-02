@@ -20,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CoderRony955&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderRony955&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/raunakksh?theme=dark&font=Red%20Hat%20Mono)
 </div>
 
 <hr>
