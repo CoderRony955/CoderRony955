@@ -37,11 +37,6 @@
     </a>
 </div>
 
-<hr>
-<h3 align="center">Spotify recently played songs</h3>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hok6nzqi95wntldffdkizlrh0" alt="Spotify Recently Played" />
-</div>
 
 <hr>
 
