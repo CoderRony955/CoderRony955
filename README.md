@@ -38,17 +38,6 @@
 </div>
 
 
-<hr>
-
-
-
-###
-<div align="center">
-  <img height="270" src="https://media1.tenor.com/m/XrdDpwgmEKYAAAAC/typing-papers.gif"  />
-</div>
-
-###
-
 
 <br clear="both">
 
